@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Noah Da Silva ```@n0ahds```
+- 👋 Hi, I’m **Noah Da Silva**, ```@n0ahds```
 - 👀 I’m interested in **cybersecurity**
 - 🌱 I’m currently learning **network technologies** and web frameworks
 - 💞️ I’m looking to collaborate on **web development projects**
